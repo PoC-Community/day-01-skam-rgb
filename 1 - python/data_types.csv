@@ -1,3 +1,8 @@
 value,data type
 1,int
 hello world,str
+1.0,float
+"['apples', 'oranges', 'bananas']",list
+{'answer': 42},dict
+True,bool
+,NoneType
